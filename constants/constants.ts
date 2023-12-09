@@ -71,3 +71,59 @@ export const BADGE_CRITERIA = {
     GOLD: 100000,
   },
 };
+
+export const hotnetwork = [
+  {
+    label:
+      'Would it be appropriate to point out an error in another paper during a referee report?',
+  },
+  {
+    label: 'How can an airconditioning machine exist?',
+  },
+
+  {
+    label: 'Interrogated every time crossing UK Border as citizen',
+  },
+
+  {
+    label: 'Low digit addition generator',
+  },
+
+  {
+    label: 'What is an example of 3 numbers that do not make up a vector?',
+  },
+];
+export const popularTags = [
+  {
+    language: 'Javascript',
+    counter: '20152+',
+  },
+  {
+    language: 'Next.js',
+    counter: '18493+',
+  },
+  {
+    language: 'React.js',
+    counter: '16269++',
+  },
+  {
+    language: 'Node.js',
+    counter: '15121+',
+  },
+  {
+    language: 'Python',
+    counter: '14431+',
+  },
+  {
+    language: 'Microsoft Azure',
+    counter: '9429+',
+  },
+  {
+    language: 'PostgreSql',
+    counter: '9429+',
+  },
+  {
+    language: 'Machine Learning',
+    counter: '9429+',
+  },
+];
